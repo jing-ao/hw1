@@ -1,3 +1,4 @@
+content length exceeded, please open it manually:https://i.imgur.com/ECEsO2O.gif
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
@@ -23,6 +24,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 <img src="https://i.imgur.com/ECEsO2O.gif" width=250><br>
+content length exceeded, please open it manually:https://i.imgur.com/ECEsO2O.gif
 
 ### Notes
 Describe any challenges encountered while building the app.
